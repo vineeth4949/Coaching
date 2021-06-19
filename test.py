@@ -1,2 +1,3 @@
 a="hello"
-print("my name is" +a)
+b="hi"
+print("my name is" +a+"of a friend"+b)
